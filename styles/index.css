@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    width: 7.75rem;
+    height: 1.75rem;
+    top: 4.313rem;
+    left: 8.813rem;
+    margin-top: 1.75rem;
+    margin-left: 1rem;
+    color: #C4C4C4;
+}
+body{
+    background-color: #040F28;
+    width: 1440;
+/* height: 5308; */
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+
+
+}
+.navigator{
+     width: 29.125rem;
+     height: 1.125rem;
+     top: 4.313rem;
+     left: 40rem;
+     gap: 2rem;
+     display: flex;
+     margin-left: 40rem;
+        margin-top: 1rem;
+    color:#646464;
+
+}
+
+
+
+    
+
+
+/* 
+Rectangle{
+    width: 497px;
+    height: 656px;
+    top: 169px;
+    left: 756px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 1rem;
+
+
+} */
+#box{
+    
+
+    
+
+}
+.box1,kay1{  
+font-weight: 700;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: -0.5%;
+text-align: center;
+
+.box3-text{
+    font-family: DM Sans;
+font-weight: 700;
+font-size: 18px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: -0.5%;
+
+   
+}
+#box4{
+    width: 1440px;
+    height: 317px;
+    top: 825px;
+     margin-top: 450px;
+     background-color:greenyellow;
+     justify-content: space-between;
+     padding: 400px;
+     
+    
+    
+}
+.box4-text{
+    margin-top: 0;
+    font-family: Ubuntu;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+    
+ 
+
+    
+}
+.text1{
+    font-family: Ubuntu;
+font-weight: 700;
+font-style: Bold;
+font-size: 10px;
+letter-spacing: -0.5px;
+    color: #C4C4C4;
+    
+}
+
+.box4-text{
+    color: blue;
+    font-size: 130px;
+    font-weight: bold;
+
+
+
+ }
+#box4{
+    height: 1200px;
+    width: 1200px;
+    background-color: green;
+}
+    
+
+}
+
