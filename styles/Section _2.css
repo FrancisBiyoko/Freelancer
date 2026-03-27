@@ -1,0 +1,21 @@
+.section_2{
+    width: 1440px;
+    height: 317px;
+   /*  top: 825px; */
+     margin-top: 450px;
+     background-color:#FFFFFF;
+     display: flex;
+     justify-content: space-between;
+     padding: 40px;
+    
+     
+}
+.box1{
+    width: 145;
+height: 74;
+top: 90px;
+left: 269px;
+color: white;
+
+
+}

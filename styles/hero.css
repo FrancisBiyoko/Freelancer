@@ -1,0 +1,41 @@
+.hero_section h1{
+font-family: Ubuntu;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+/* leading-trim: NONE; */
+line-height: 74.4px;
+letter-spacing: 0%;
+text-transform: capitalize;
+color: #C4C4C4;
+
+}
+.hero_section h3{
+color:#646464 ;
+font-weight: 400;
+font-size: 16px; 
+line-height: 32px;
+letter-spacing: 0px;
+
+
+}
+.btn-started{
+    display: inline-block;
+    background-color: red;
+    color: #FFFFFF;
+    padding: 0.8rem 1.5rem;
+    border-radius:5.438rem ; 
+    text-decoration: none;
+    font-weight: bold;
+}
+.hero_section{
+    display: flex;
+    flex-direction:column ;
+}
+
+@media screen and (min-width: 1200px) {
+    .hero_section{
+        flex-direction: row;
+
+    }
+}
